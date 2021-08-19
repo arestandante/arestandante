@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @arestandante
+- 👀 I’m interested in analyzing system and debugging basic codes
+- 🌱 I’m currently learning computer engineering at PUP Manila
+- 📫 How to reach me, just hit me up on my email estandante.arjhann@gmail.com
